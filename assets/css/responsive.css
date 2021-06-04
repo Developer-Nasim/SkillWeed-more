@@ -1,0 +1,402 @@
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+	.menu-area nav ul li a { 
+	    margin-left: 20px; 
+	} 
+	.brands-logo img {
+	    max-height: 115px;
+	    max-width: 200px;
+	}
+
+	.s-blk p {
+	    font-size: 18px;
+	    line-height: 24px;
+	}
+
+	.s-blk {
+	    padding: 30px;
+	}  
+	.hero-area {
+	    padding: 150px 0;
+	}
+ 
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.logo-area a img {
+	    max-height: 40px;
+	    position: relative;
+	    top: -5px;
+	}
+	.menu-area nav ul li a { 
+	    margin-left: 20px; 
+	    font-size: 20px;
+	}
+	.wrp h3 {
+	    font-size: 38px; 
+	}
+	.brands-logo img {
+	    max-height: 80px;
+	    max-width: 170px;
+	}
+	.s-blk p {
+	    font-size: 16px;
+	    line-height: 20px;
+	}  
+	.section-title h1 {
+	    font-size: 34px;
+	} 
+	.hero-area {
+	    padding: 150px 0;
+	}
+ 
+	.d-blk { 
+	    padding: 60px 30px;
+	    margin-top: 60px;
+	}
+	.d-blk h5 { 
+	    font-size: 24px;
+	    margin-bottom: 15px;
+	}
+	.d-blk p {
+	    font-size: 20px; 
+	    line-height: 26px; 
+	    margin-bottom: 30px;
+	}
+	.d-blk a { 
+	    padding: 8px 40px; 
+	    font-size: 20px;
+	}
+	.d-blk img.first-shap {  
+	    max-width: 40px;
+	}
+	.d-blk img.second-shap { 
+	    top: 25px;
+	    right: 7%;
+	    max-width: 20px;
+	}
+	.d-blk img.third-shap { 
+	    bottom: 15px;
+	    left: 4%;
+	    max-width: 40px;
+	}
+	.d-blk img.fourth-shap { 
+	    bottom: 10px;
+	    left: 30%;
+	    max-width: 30px;
+	}
+	.d-blk img.fifth-shap { 
+	    right: 2%;
+	    bottom: 0;
+	    max-width: 50px;
+	}
+	.steps {
+	    margin-top: 70px;
+	}
+	.steps .section-title h3 {
+	    font-size: 42px;  
+	}
+	.brands {
+	    padding: 70px 0;
+	    padding-bottom: 100px;
+	}
+
+	.newsLatter-area .section-title h3 {
+	    font-size: 50px; 
+	}  
+	.newsLatter-area { 
+	    padding: 70px 20px;
+	    padding-bottom: 150px; 
+	}
+	body{
+		font-size: 18px
+	}
+	ul.social-links li a img {
+	    max-width: 25px;
+	}
+	ul.social-links li { 
+	    margin: 0px 15px;
+	}
+
+
+ 
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.logo-area a img {
+	    max-height: 40px;
+	    position: relative;
+	    top: -5px;
+	}
+	.menu-area nav ul li a { 
+	    margin-left: 20px; 
+	    font-size: 20px;
+	}
+	.wrp h3 {
+	    font-size: 38px;
+	    margin-bottom: 50px;
+	}
+	.brands-logo img {
+	    max-height: 80px;
+	    max-width: 170px;
+	}
+	.s-blk p {
+	    font-size: 18px;
+	    line-height: 24px;
+	} 
+	.s-blk {
+	    padding: 15px;
+	    margin-top: 0px
+	}
+	.section-title h1 {
+	    font-size: 34px;
+	    margin-bottom: 10px;
+	}
+	.hero-area {
+	    padding: 80px  0;
+	}
+	.hero-wrp h1 {
+	    font-size: 54px;
+	    line-height: 54px;
+	    margin-bottom: 20px;
+	} 
+	.hero-wrp a.theme-btn {
+	    font-size: 16px;
+	    padding: 4px 60px;
+	    padding-bottom: 5px;
+	}
+	.d-blk { 
+	    padding: 60px 30px;
+	    margin-top: 60px;
+	}
+	.d-blk h5 { 
+	    font-size: 24px;
+	    margin-bottom: 15px;
+	}
+	.d-blk p {
+	    font-size: 20px; 
+	    line-height: 26px; 
+	    margin-bottom: 30px;
+	}
+	.d-blk a {
+	    padding: 4px 20px;
+	    font-size: 16px;
+	}
+	.d-blk img.first-shap {  
+	    max-width: 40px;
+	}
+	.d-blk img.second-shap { 
+	    top: 25px;
+	    right: 7%;
+	    max-width: 20px;
+	}
+	.d-blk img.third-shap { 
+	    bottom: 15px;
+	    left: 4%;
+	    max-width: 40px;
+	}
+	.d-blk img.fourth-shap { 
+	    bottom: 10px;
+	    left: 30%;
+	    max-width: 30px;
+	}
+	.d-blk img.fifth-shap { 
+	    right: 2%;
+	    bottom: 0;
+	    max-width: 50px;
+	}
+	.steps {
+	    margin-top: 70px;
+	}
+	.steps .section-title h3 {
+	    font-size: 32px;  
+	}
+	.brands {
+	    padding: 45px 0;
+	    padding-bottom: 70px;
+	}
+	.newsLatter-area .section-title h3 {
+	    font-size: 50px; 
+	}  
+	.newsLatter-area { 
+	    padding: 70px 20px;
+	    padding-bottom: 150px; 
+	}
+	body{
+		font-size: 16px
+	}
+	ul.social-links li a img {
+	    max-width: 20px;
+	}
+	ul.social-links li { 
+	    margin: 0px 10px;
+	}
+	footer { 
+	    padding-top: 50px;
+	    padding-bottom: 20px;
+	}
+	ul.social-links { 
+	    margin: 30px 0;
+	}
+	.detailse-area{
+	    padding-top: 70px;
+	}
+	.steps .section-title {
+	    margin-bottom: 40px;
+	}
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+	.logo-area a img {
+	    max-height: 40px;
+	    position: relative;
+	    top: -5px;
+	} 
+	.wrp h3 {
+	    font-size: 30px;
+	    margin-bottom: 30px;
+	}
+	.brands-logo img {
+	    max-height: 50px;
+	    max-width: 74px;
+	}
+	.s-blk p {
+	    font-size: 15px;
+	    line-height: 20px;
+	}
+	.s-blk {
+	    padding: 0px;
+	    margin-top: 10px;
+	}
+	.steps .section-title {
+	    margin-bottom: 40px;
+	}
+	.section-title h1 {
+	    font-size: 24px;
+	    margin-bottom: 10px
+	} 
+	.hero-area {
+	    padding: 40px 0;
+	}
+	.hero-wrp h1 {
+	    font-size: 32px;
+	    line-height: 40px;
+	    margin-bottom: 15px;
+	}
+	.hero-wrp p {
+	    font-size: 16px;
+	    line-height: 24px;
+	}
+	.hero-wrp a.theme-btn {
+	    font-size: 18px;
+	    padding: 0px 50px;
+	    padding-bottom: 0px;
+	    line-height: 38px;
+	}
+	.d-blk {
+	    padding: 60px 30px;
+	    margin-top: 40px;
+	    width: 100%;
+	}
+	.d-blk h5 { 
+	    font-size: 20px;
+	    margin-bottom: 10px;
+	}
+	.d-blk p {
+	    font-size: 15px; 
+	    line-height: 20px; 
+	    margin-bottom: 30px;
+	}
+	.d-blk a {
+	    padding: 4px 20px;
+	    font-size: 16px;
+	}
+	.d-blk img.first-shap {  
+	    max-width: 40px;
+	}
+	.d-blk img.second-shap { 
+	    top: 25px;
+	    right: 7%;
+	    max-width: 20px;
+	}
+	.d-blk img.third-shap { 
+	    bottom: 15px;
+	    left: 4%;
+	    max-width: 40px;
+	}
+	.d-blk img.fourth-shap { 
+	    bottom: 10px;
+	    left: 30%;
+	    max-width: 30px;
+	}
+	.detailse-area {
+	    padding-top: 60px; 
+	}
+	.d-blk img.fifth-shap { 
+	    right: 2%;
+	    bottom: 0;
+	    max-width: 50px;
+	}
+	.steps {
+	    margin-top: 70px;
+	}
+	.steps .section-title h3 {
+	    font-size: 22px;  
+	}
+	.brands {
+	    padding: 40px 0;
+	    padding-bottom: 40px;
+	}
+	.newsLatter-area .section-title h3 {
+	    font-size: 24px; 
+	}  
+	.newsLatter-area {
+	    padding: 30px 20px;
+	    padding-bottom: 60px;
+	}
+	body{
+		font-size: 15px
+	}
+	ul.social-links li a img {
+	    max-width: 20px;
+	}
+	ul.social-links li { 
+	    margin: 0px 10px;
+	}
+	footer { 
+	    padding-top: 50px;
+	    padding-bottom: 20px;
+	}
+	ul.social-links { 
+	    margin: 30px 0;
+	}
+	 .s-blk img {
+	    max-height: 60px;
+	}
+	.footer-blk {
+	    margin-top: 30px;
+	}
+
+	footer {
+	    padding-top: 20px;
+	}
+	.newsLatter-form form input {
+	    width: 70%; 
+	    padding: 9px; 
+	    font-size: 10px;
+	}
+	.newsLatter-form form button {
+	    width: 30%; 
+	    font-size: 12px;  
+	}
+
+
+} 
